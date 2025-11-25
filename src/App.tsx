@@ -5,6 +5,9 @@ function App() {
   return (
     <>
       <Navbar01 />
+      <div>
+        <input type="text" className='border-2 '/>
+      </div>
     </>
   )
 }
