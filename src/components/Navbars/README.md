@@ -10,4 +10,4 @@ Next Feature:
 - Dark Mode Toggle button
 ##### Screenshots ⬇️
 
-![Ecommerce Spreading Navbar](./screenshots/image01.png)
+![Ecommerce Expandable Navbar](./screenshots/image01.png)
