@@ -1,4 +1,4 @@
-# Nav bars 
+# Navbars 
 I've created some responsive navigation bars for different types of websites. You can view their clear descriptions and see their preview.
 #### 1- E-commerce Navbar with expand Search bar on Mobile (v1.0.0)
 This navigation bar contains:
@@ -10,4 +10,4 @@ Next Feature:
 - Dark Mode Toggle button
 ##### Screenshots ⬇️
 
-![Ecommerce Spreading Navbar](./screenshots/image01.png)
+![Ecommerce Expandable Navbar](./screenshots/image01.png)

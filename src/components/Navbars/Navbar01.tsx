@@ -43,7 +43,7 @@ export default function Navbar01() {
                             </a>
                         </div>
 
-                        {/* Search Bar - spread on mobile when you focus on it */}
+                        {/* Search Bar - expands on mobile when you focus on it */}
                         <div className={`relative transition-all duration-300 ease-in-out ${
                             isSearchFocused
                                 ? 'w-full md:w-[75%]' 
